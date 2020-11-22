@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/first-ts-project/static/css/main.c8f27184.chunk.css",
+    "main.js": "/first-ts-project/static/js/main.f5dc29e9.chunk.js",
+    "main.js.map": "/first-ts-project/static/js/main.f5dc29e9.chunk.js.map",
+    "runtime-main.js": "/first-ts-project/static/js/runtime-main.ad5807fb.js",
+    "runtime-main.js.map": "/first-ts-project/static/js/runtime-main.ad5807fb.js.map",
+    "static/js/2.854de7d4.chunk.js": "/first-ts-project/static/js/2.854de7d4.chunk.js",
+    "static/js/2.854de7d4.chunk.js.map": "/first-ts-project/static/js/2.854de7d4.chunk.js.map",
+    "index.html": "/first-ts-project/index.html",
+    "static/css/main.c8f27184.chunk.css.map": "/first-ts-project/static/css/main.c8f27184.chunk.css.map",
+    "static/js/2.854de7d4.chunk.js.LICENSE.txt": "/first-ts-project/static/js/2.854de7d4.chunk.js.LICENSE.txt",
+    "static/media/trash.03e08d54.svg": "/first-ts-project/static/media/trash.03e08d54.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad5807fb.js",
+    "static/js/2.854de7d4.chunk.js",
+    "static/css/main.c8f27184.chunk.css",
+    "static/js/main.f5dc29e9.chunk.js"
+  ]
+}
