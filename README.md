@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This site is published at https://chkalovec-spec.github.io/first-ts-project/
+This site is published at https://chkalovec-spec.github.io/first-ts-project/ and https://first-ts-project.herokuapp.com/
 
 ## Available Scripts
 
