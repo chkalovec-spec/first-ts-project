@@ -1,5 +1,5 @@
 import React from 'react'
-import { Route } from 'react-router'
+import { Route, Switch } from 'react-router'
 
 import Main from './Components/Main/Main'
 import { Nav } from './Components/Nav/Nav'
@@ -11,9 +11,17 @@ const App: React.FC = () => {
   return (
     <>
       <Nav />
-      <Route exact path='/' render={() => <Main />} />
-      <Route path='/todos' render={() => <TodosContainer />} />
-      <Route path='/movie' render={() => <MovieContainer />} />
+      <Switch>
+        <Route path='/todos'>
+          <TodosContainer />
+        </Route>
+        <Route path='/movie'>
+          <MovieContainer />
+        </Route>
+        <Route path='/'>
+          <Main />
+        </Route>
+      </Switch>
     </>
   )
 }
